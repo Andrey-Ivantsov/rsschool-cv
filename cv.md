@@ -3,9 +3,9 @@
 <p>Location: Samara, Russia</p>
 
 <h2>Contact information:</h2>
-<p>Phone number: 8 (927) 723 – 11 – 11</p>
-<p>Telegram: @a_a_andrey</p>
-<p>E-mail: andrey-ivantsov@mail.ru</p>
+<li>Phone number: 8 (927) 723 – 11 – 11</li>
+<li>Telegram: @a_a_andrey</li>
+<li>E-mail: andrey-ivantsov@mail.ru</li>
 
 <h2>Bio:</h2>
 <p>My name is Andrey Ivantsov and I am on my way to becoming a Web Dev.</p>
