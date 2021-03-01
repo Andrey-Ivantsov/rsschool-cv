@@ -1,11 +1,15 @@
 <h1>Andrey Ivantsov</h1>
-<p>Age: 24 years old</p>
-<p>Location: Samara, Russia</p>
+<ul>
+  <li>Age: 24 years old</li>
+  <li>Location: Samara, Russia</li>
+</ul>
 
 <h2>Contact information:</h2>
-<li>Phone number: 8 (927) 723 – 11 – 11</li>
-<li>Telegram: @a_a_andrey</li>
-<li>E-mail: andrey-ivantsov@mail.ru</li>
+<ul>
+  <li>Phone number: 8 (927) 723 – 11 – 11</li>
+  <li>Telegram: @a_a_andrey</li>
+  <li>E-mail: andrey-ivantsov@mail.ru</li>
+</ul>
 
 <h2>Bio:</h2>
 <p>My name is Andrey Ivantsov and I am on my way to becoming a Web Dev.</p>
