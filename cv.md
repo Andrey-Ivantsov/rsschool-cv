@@ -43,7 +43,8 @@ Loading…
   <li>QA Engineer courses 06.2020 – 10.2020 (Online courses)</li>
 </ul>
 
-<ul><h2>Languages</h2>
+<h2>Languages</h2>
+<ul>
   <li>Russian (native)</li>
   <li>English (Intermediate)</li>
 </ul>
